@@ -1,0 +1,69 @@
+.navbar-brand img{
+    height: 50px;
+}
+
+.ICON img{
+    height: 50px;
+}
+
+
+.ICON1, .ICON2, .ICON3, .ICON4{
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: #f7f8f8;
+}
+#any{
+    color: blue;
+}
+.get-button{
+    color: blue;
+}
+
+.container{
+    background-color: #eff8f7;
+    margin-bottom: 50px;
+}
+.ICON{
+    background-color: white;
+}
+.row{
+    padding: 40px 100px;
+}
+.container-fluid{
+    padding: 10px 100px;
+}
+.get-button{
+    background-image: linear-gradient(to bottom,#3a693aea 0%, #3a693aea 100%) ;
+    color: #fff ;
+    border: none;
+    border-radius: 100px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.Courses{
+    background-color: white;
+}
+.card-footer{
+    border: none;
+    background-color: #fff;
+}
+.card-footer img{
+    height: 20px;
+}
+.card{
+    border: none;
+}
+.testimonial img{
+    height: 100px;
+}
+.testimonial{
+    background-color: white;
+}
+.foot{
+    background-color: rgb(14, 14, 31);
+    color: white;
+    
+}
+footer{
+    text-align: center;
+}
